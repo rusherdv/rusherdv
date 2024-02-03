@@ -12,9 +12,6 @@
 - 🌱 I’m currently learning React nd NodeJS  
   
 
-- ❓ Ask me about anything related to LUA  
-  
-
 - 🌙 I usually work nights  
 
 <div align="center">
