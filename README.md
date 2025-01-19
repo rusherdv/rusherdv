@@ -1,5 +1,4 @@
 <h1>Hello! I'm rusher <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Full Stack and Software developer</h2>
 
 ### About Me
 - I'm 20 years old and I'm from Buenos Aires, Argentina.
