@@ -2,7 +2,7 @@
 <h2>Full Stack and Software developer</h2>
 
 ### About Me
-- I am 19 years old and I am from Buenos Aires, Argentina.
+- I am 20 years old and I am from Buenos Aires, Argentina.
 - I am a MERN and PERN full stack developer.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy working with the frontend and the backend, i like both the visual and the logical.
