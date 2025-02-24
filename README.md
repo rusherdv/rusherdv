@@ -6,7 +6,7 @@
 - I'm self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy working with the frontend and the backend, i like both the visual and the logical.
 
-🌐 **Portfolio**  
+###🌐 Portfolio 
 You can check out my portfolio here: [rusher.net.at](https://rusher.net.ar)  
   
 ### 🚀 Some of my projects
