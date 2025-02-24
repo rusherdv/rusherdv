@@ -5,6 +5,11 @@
 - I'm MERN and PERN full stack developer.
 - I'm self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy working with the frontend and the backend, i like both the visual and the logical.
+  
+### 🚀 Algunos de mis proyectos  
+- **[MiBot](https://github.com/usuario/mibot)** → Un bot de Discord con funciones avanzadas.  
+- **[Ecommerce-Template](https://github.com/usuario/ecommerce-template)** → Plantilla de e-commerce en Next.js.  
+- **[Utilidades JS](https://github.com/usuario/utilidades-js)** → Librería con funciones útiles en JavaScript.  
 
 
 # 💻 Tech Stack:
