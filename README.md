@@ -7,7 +7,7 @@
 - I enjoy working with the frontend and the backend, i like both the visual and the logical.
 
 ### 🌐 Portfolio 
-You can check out my portfolio here: [rusher.net.at](https://rusher.net.ar)  
+You can check out my portfolio here: [rusher.net.ar](https://rusher.net.ar)  
   
 ### 🚀 Some of my projects
 - **[vbucks.ar](https://vbucks.ar/)** → Complete Web App for selling Fortnite related products.
