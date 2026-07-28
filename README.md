@@ -1,7 +1,7 @@
 <h1>Hello! I'm rusher <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 
 ### 👨‍💻 About Me
-- I'm 20 years old and I'm from Buenos Aires, Argentina.
+- I'm 21 years old and I'm from Buenos Aires, Argentina.
 - I'm MERN and PERN full stack developer.
 - I'm self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy working with the frontend and the backend, i like both the visual and the logical.
